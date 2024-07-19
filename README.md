@@ -34,4 +34,4 @@ The following GraphQL mutations are available:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Winter-Krimmert/GraphQL_API_for_a_Movie_Database
