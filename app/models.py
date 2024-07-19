@@ -16,4 +16,3 @@ class Movie(db.Model):
         super().__init__(**kwargs)
         db.session.add(self)
         db.session.commit()
-        
